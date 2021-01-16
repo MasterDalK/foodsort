@@ -129,7 +129,7 @@ dataSet[dataSetVersion].characterData = [
  },
  {
    name: "Caribbean",
-   img: "Caribbean.png",
+   img: "caribbean.png",
    opts: {
      test: ['test']
    },
